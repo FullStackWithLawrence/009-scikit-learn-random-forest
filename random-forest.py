@@ -5,7 +5,7 @@
 
     date:           jun-2023
 
-    usage:          minimalist implementation of Logistic Regression model.
+    usage:          minimalist implementation of Random Forest model.
 """
 import os
 import warnings
